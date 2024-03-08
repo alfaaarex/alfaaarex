@@ -2,7 +2,7 @@
 
 Heya, I'm Alfa!
 People know me by the name Alfarex, but you can call me Alfa!
-I am a 13 year old developer, who messes around with HTML, CSS, Swift, C# and stuff.
+I am a 15 year old developer, who messes around with HTML, CSS, Swift, C# and stuff.
 I also own the official [**r/FirefoxCSS Discord**](https://discord.gg/jrrw7Eg6sj) server. You can often find me fooling around, but when I'm in my senses, I make Firefox Themes. Some of my best themes are:
 
 - [**GruvFox**](https://github.com/firefoxcssthemers/gruvfox)
