@@ -12,13 +12,13 @@ I also own the official [**r/FirefoxCSS Discord**](https://discord.gg/jrrw7Eg6sj
 - [**WhiteSur Firefox**](https://github.com/firefoxcssthemers/whitesur-tweaked)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firefoxcssthemers&repo=WhiteSur-FirefoxTheme&theme=merko)](https://github.com/firefoxcssthemers/whitesur-tweaked)
-- [**GentleFox**](https://github.com/alfarexguy2019/gentlefox)
+- [**GentleFox**](https://github.com/alfaaarex/gentlefox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alfarexguy2019&repo=gentlefox&theme=merko)](https://github.com/alfarexguy2019/gentlefox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alfaaarex&repo=gentlefox&theme=merko)](https://github.com/alfaaarex/gentlefox)
 ## Random stuff:
 
 ### GitHub Stuff:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfarexGuy2019&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfaaarex&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Discord Status:
